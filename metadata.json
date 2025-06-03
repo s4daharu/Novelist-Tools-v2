@@ -1,0 +1,5 @@
+{
+  "name": "Novelist Tools",
+  "description": "EPUB splitter and novel backup utilities, offline-first.",
+  "requestFramePermissions": []
+}
