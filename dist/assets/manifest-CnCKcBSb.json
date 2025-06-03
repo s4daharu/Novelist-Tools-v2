@@ -1,0 +1,41 @@
+{
+  "name": "Novelist Tools",
+  "short_name": "NovelistTools",
+  "description": "EPUB splitter and novel backup utilities, offline-first.",
+  "id": "/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#1a1a1a",
+  "theme_color": "#0097a7",
+  "categories": ["utilities", "productivity", "books_and_reference"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/screenshot1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "description": "Dashboard view showing available tools."
+    },
+    {
+      "src": "screenshots/screenshot2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "description": "EPUB Splitter tool in action."
+    }
+  ]
+}
